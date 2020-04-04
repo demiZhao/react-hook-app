@@ -15,4 +15,5 @@ const H1 = styled.h3`
   font-size: 1.6rem;
   color:  #5c8a8a;
 `
+
 export { Container, InnerContainer, H1 }
