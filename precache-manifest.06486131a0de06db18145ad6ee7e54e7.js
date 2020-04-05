@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9d1632235d99bd44deabef1ea9145022",
+    "revision": "9f6554433037416dad7d6ed462b5f0fb",
     "url": "/react-hook-app/index.html"
   },
   {
